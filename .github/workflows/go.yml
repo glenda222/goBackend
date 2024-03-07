@@ -2,7 +2,7 @@ name: Build go app and push to Azure
 
 on: 
   push: 
-    branches: [ mizuho-dev-sso ]
+    branches: [ main ]
 
 jobs:
 
